@@ -11,7 +11,7 @@ def name
 end
 
 def meow
-  puts "the cat is meowing"
+  puts "meow"
 end
   
 maru= Cat.new
