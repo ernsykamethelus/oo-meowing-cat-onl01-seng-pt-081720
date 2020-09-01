@@ -10,6 +10,12 @@ def name
   @name
 end
 
-def name
+def meow
+  puts "the cat is meowing"
+end
   
+maru= Cat.new
+maru.name
 
+maru= Cat.new
+maru.meow
