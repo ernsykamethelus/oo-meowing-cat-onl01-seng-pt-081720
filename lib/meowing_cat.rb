@@ -3,5 +3,5 @@ class Cat
   attr_reader: name
 end
 
-def 
+def name=
 
